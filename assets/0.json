@@ -1,0 +1,19 @@
+{
+  "name": "Racoon00",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HBMKPae4gPZNG8YvTyyaY7szRmQmKoyLMavWB73JxB55",
+        "share": 100
+      }
+    ]
+  }
+}
